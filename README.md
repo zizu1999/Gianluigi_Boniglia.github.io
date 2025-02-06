@@ -10,6 +10,7 @@ The created visualizations include:
 
 1. **Histograms of Shots Taken**:
    - These charts display the total distribution of shots taken by teams, providing an overview of general trends and performance throughout the season.
+     
    ![Shots Taken Histogram](images/Histogram_Indiana.png)
    ![Shots Taken Histogram](images/Histogram_LA.png)
 
